@@ -5,4 +5,5 @@ div{
     height: 300px;
     width: 300px;
     background-image: url(Dhoni.jpg);
+    background-size: cover;
 }
