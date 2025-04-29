@@ -2,8 +2,8 @@ p{
     color:red;
 }
 div{
-    height: 300px;
-    width: 300px;
+    height: 900px;
+    width: 1400px;
     background-image: url(Dhoni.jpg);
     background-size: cover;
 }
